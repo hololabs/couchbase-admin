@@ -1,0 +1,22 @@
+{
+  "name": "couchbase-admin",
+  "version": "0.0.1",
+  "description": "couchbase web administration tool",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "coucbase",
+    "web",
+    "admin",
+    ""
+  ],
+  "author": "Stephane Paul",
+  "license": "BSD", 
+  "dependencies": {
+    "express": "*",
+    "couchbase": "*"
+  }
+}
